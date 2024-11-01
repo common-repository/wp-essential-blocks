@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/blocks/background-layer/index.js:111
+msgid "Background Settings"
+msgstr ""
+
+#: src/blocks/background-layer/index.js:112
+msgid "Margin"
+msgstr ""
+
+#: src/blocks/background-layer/index.js:117
+msgid "Padding"
+msgstr ""
+
+#: src/blocks/background-layer/index.js:44
+msgid "Background Layer"
+msgstr ""
+
+#: src/blocks/background-layer/index.js:45
+msgid "A Customizable Background Layer for blocks."
+msgstr ""
+
+#: src/blocks/background-layer/index.js:48
+msgid "Background Color"
+msgstr ""
+
+#: src/blocks/background-layer/index.js:48
+msgid "Background Image"
+msgstr ""
+
+#: src/blocks/background-layer/index.js:48
+msgid "Background Video"
+msgstr ""
